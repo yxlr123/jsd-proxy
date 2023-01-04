@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/*"
-to = "https://cdn.jsdelivr.net/:splat"
+to = "https://ipfs.io/:splat"
 status = 200
 force = true
 headers = {X-From = "Netlify"}
