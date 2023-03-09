@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/*"
-to = "https://ipfs.io/:splat"
+to = "https://twitter/:splat"
 status = 200
 force = true
 headers = {X-From = "Netlify"}
